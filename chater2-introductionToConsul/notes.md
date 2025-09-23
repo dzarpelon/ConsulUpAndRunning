@@ -42,5 +42,3 @@
 - Consul itself is not a proxy, it uses Envoy as the sidecar proxy.
 - Envoy has a very low memory and CPU footprint.
 - Consul clients configure the sidecar proxies via the gRPC API.
-
--
